@@ -1,0 +1,25 @@
+,year,percentage_of_population_using_internet,percentage_of_population_using_internet_data_source,percentage_of_population_having_access_to_electricity_x,percentage_of_population_having_access_to_electricity_data_source_x,gdp_per_capita_x,gdp_per_capita_data_source_x,urban_population_percentage_x,urban_population_percentage_data_source_x,percentage_of_population_having_access_to_electricity_y,percentage_of_population_having_access_to_electricity_data_source_y,gdp_per_capita_y,gdp_per_capita_data_source_y,urban_population_percentage_y,urban_population_percentage_data_source_y
+0,2000,1.7079289271794402,interpolated/extrapolated data,72.8,real data,107438.7879,real data,32.98199999999999,real data,72.8,real data,107438.7879,real data,32.98199999999999,real data
+1,2001,1.31855,real data,73.9,real data,108291.03450000002,real data,33.18,real data,73.9,real data,108291.03450000002,real data,33.18,real data
+2,2002,2.57743,real data,74.9,real data,108411.217,real data,33.38,real data,74.9,real data,108411.217,real data,33.38,real data
+3,2003,5.04116,real data,76.0,real data,111608.5084,real data,33.58,real data,76.0,real data,111608.5084,real data,33.58,real data
+4,2004,6.16432,real data,77.0,real data,117414.8919,real data,33.781,real data,77.0,real data,117414.8919,real data,33.781,real data
+5,2005,6.33233,real data,78.1,real data,122967.01309999994,real data,33.98199999999999,real data,78.1,real data,122967.01309999994,real data,33.98199999999999,real data
+6,2006,6.5,real data,79.10000000000001,real data,127338.8976,real data,34.184,real data,79.10000000000001,real data,127338.8976,real data,34.184,real data
+7,2007,6.8,real data,80.20000000000002,real data,129531.016,real data,34.387,real data,80.20000000000002,real data,129531.016,real data,34.387,real data
+8,2008,7.0,real data,81.4,real data,128783.3473,real data,34.59000000000001,real data,81.4,real data,128783.3473,real data,34.59000000000001,real data
+9,2009,7.5,real data,82.5,real data,129911.6837,real data,34.793,real data,82.5,real data,129911.6837,real data,34.793,real data
+10,2010,8.0,real data,87.10000000000001,real data,128644.428,real data,34.997,real data,87.10000000000001,real data,128644.428,real data,34.997,real data
+11,2011,8.0,real data,87.80000000000001,real data,129170.268,real data,35.202,real data,87.80000000000001,real data,129170.268,real data,35.202,real data
+12,2012,8.1,real data,88.60000000000001,real data,130568.2416,real data,35.408,real data,88.60000000000001,real data,130568.2416,real data,35.408,real data
+13,2013,9.0,real data,89.30000000000001,real data,134070.5062,real data,35.613,real data,89.30000000000001,real data,134070.5062,real data,35.613,real data
+14,2014,10.000000000000002,real data,90.1,real data,137510.7609,real data,35.819,real data,90.1,real data,137510.7609,real data,35.819,real data
+15,2015,11.0,real data,91.0,real data,141314.9774,real data,36.02600000000001,real data,91.0,real data,141314.9774,real data,36.02600000000001,real data
+16,2016,12.385400000000002,real data,91.8,real data,148656.38740000004,real data,36.23400000000001,real data,91.8,real data,148656.38740000004,real data,36.23400000000001,real data
+17,2017,13.78,real data,92.70000000000002,real data,153065.8879,real data,36.442,real data,92.70000000000002,real data,153065.8879,real data,36.442,real data
+18,2018,15.340000000000002,real data,93.40000000000002,real data,159865.1044,real data,36.66599999999999,real data,93.40000000000002,real data,159865.1044,real data,36.66599999999999,real data
+19,2019,17.0709,real data,93.90000000000002,real data,161109.0085,real data,36.907,real data,93.90000000000002,real data,161109.0085,real data,36.907,real data
+20,2020,18.9348,real data,94.5,real data,156213.07770000005,real data,37.165,real data,94.5,real data,156213.07770000005,real data,37.165,real data
+21,2021,24.977500000000003,real data,94.90000000000002,real data,163278.6665,real data,37.440000000000005,real data,94.90000000000002,real data,163278.6665,real data,37.440000000000005,real data
+22,2022,32.9486,real data,95.0,real data,168115.8017,real data,37.73100000000001,real data,95.0,real data,168115.8017,real data,37.73100000000001,real data
+23,2023,42.34273346276783,interpolated/extrapolated data,94.79313854853407,interpolated/extrapolated data,165466.3726,real data,38.04,real data,94.79313854853407,interpolated/extrapolated data,165466.3726,real data,38.04,real data

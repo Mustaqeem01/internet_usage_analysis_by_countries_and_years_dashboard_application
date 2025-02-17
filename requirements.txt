@@ -1,0 +1,10 @@
+dash==2.9.3
+numpy
+pandas
+scikit_learn
+plotly
+seaborn
+scipy
+matplotlib
+dash_extensions
+gunicorn
