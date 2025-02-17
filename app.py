@@ -11,7 +11,10 @@ import io
 
 
 # Load all country data
-path = r"/"
+import os
+
+path = os.getcwd() + "/"  # Gets the current directory and ensures the path ends with '/'
+
 
 
 import glob
