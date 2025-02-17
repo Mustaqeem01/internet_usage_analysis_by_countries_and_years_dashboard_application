@@ -11,7 +11,7 @@ import io
 
 
 # Load all country data
-path = r"/home/mfarabi/mysite/"
+path = r"/"
 
 
 import glob
